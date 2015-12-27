@@ -6,3 +6,5 @@ I have created CoreMIDI4J as to my knowledge there is currently no SPI under act
 For years I have used MMJ, but that appears to longer be under development and it does not work with later Java Runtimes. After looking around for a replacement, I decided it was necessary to create my own "lightweight" SPI, and that I would make it publicly available for others to contribute to.
 
 The current release is a developer preview, and may or may not work on all systems with all interfaces. 
+
+The latest code drop now supports notification of changes in the MIDI environment.
